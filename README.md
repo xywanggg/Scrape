@@ -1,6 +1,6 @@
 # Scrape
-# --requests
-# --re
-# --bs4
-# --xpath
-# --Selenium
+requests |
+re |
+bs4 |
+xpath |
+Selenium
